@@ -1,0 +1,1 @@
+print("Hello world\nto print in new line")
